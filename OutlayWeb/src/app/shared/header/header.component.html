@@ -1,0 +1,11 @@
+
+<mat-toolbar class="header-co">
+    
+        <a mat-button routerLink="/"><span class="header-font">Home</span></a>
+        <a mat-button routerLink="/entries"><span class="header-font">Entries</span></a>
+        <a mat-button routerLink="/new-entry"><span class="header-font">New Entry</span></a>
+        <span style="flex:1 1 auto"></span>
+        <a mat-button *ngIf="auth.isAuthenticated"><span class="header-font">Welcome {{auth.getUserName | uppercase}}</span></a>
+        <a mat-button *ngIf="auth.isAuthenticated"(click)="auth.logout()"><span class="header-font">Logout</span></a>
+   
+</mat-toolbar>

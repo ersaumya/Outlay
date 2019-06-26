@@ -1,0 +1,18 @@
+.mat-card {
+    margin-top:5% ;
+    margin-left:30%;
+    margin-right:30%;
+    margin-bottom:5%;
+  }
+/* .new-form-field{
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+} */
+/* .new-form-button{
+    position: relative;
+} */
+.card-header{
+    background-color: #451771;
+    color: white;
+}

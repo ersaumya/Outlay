@@ -1,0 +1,14 @@
+F:\code\OutlayApp\OutlayService\OutlayService\obj\Debug\netcoreapp2.2\OutlayService.csproj.CoreCompileInputs.cache
+F:\code\OutlayApp\OutlayService\OutlayService\obj\Debug\netcoreapp2.2\OutlayService.RazorAssemblyInfo.cache
+F:\code\OutlayApp\OutlayService\OutlayService\obj\Debug\netcoreapp2.2\OutlayService.RazorAssemblyInfo.cs
+F:\code\OutlayApp\OutlayService\OutlayService\obj\Debug\netcoreapp2.2\OutlayService.AssemblyInfoInputs.cache
+F:\code\OutlayApp\OutlayService\OutlayService\obj\Debug\netcoreapp2.2\OutlayService.AssemblyInfo.cs
+F:\code\OutlayApp\OutlayService\OutlayService\bin\Debug\netcoreapp2.2\OutlayService.deps.json
+F:\code\OutlayApp\OutlayService\OutlayService\bin\Debug\netcoreapp2.2\OutlayService.runtimeconfig.json
+F:\code\OutlayApp\OutlayService\OutlayService\bin\Debug\netcoreapp2.2\OutlayService.runtimeconfig.dev.json
+F:\code\OutlayApp\OutlayService\OutlayService\bin\Debug\netcoreapp2.2\OutlayService.dll
+F:\code\OutlayApp\OutlayService\OutlayService\bin\Debug\netcoreapp2.2\OutlayService.pdb
+F:\code\OutlayApp\OutlayService\OutlayService\obj\Debug\netcoreapp2.2\OutlayService.RazorTargetAssemblyInfo.cache
+F:\code\OutlayApp\OutlayService\OutlayService\obj\Debug\netcoreapp2.2\OutlayService.dll
+F:\code\OutlayApp\OutlayService\OutlayService\obj\Debug\netcoreapp2.2\OutlayService.pdb
+F:\code\OutlayApp\OutlayService\OutlayService\obj\Debug\netcoreapp2.2\OutlayService.csprojAssemblyReference.cache

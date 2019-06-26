@@ -1,0 +1,25 @@
+<h2 mat-dialog-title>Update Entry</h2>
+<mat-dialog-content [formGroup]="form">
+  <mat-card-content>
+    <mat-form-field class="new-entry-field" >
+      <input matInput placeholder="Entry Description" formControlName="description" >
+    </mat-form-field>
+    <br>
+    <mat-form-field class="new-entry-field" >
+      <mat-select placeholder="Entry Type" formControlName="isExpense">
+        <mat-option *ngFor="let type of types" [value]="type.value">
+          {{type.display}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+    <br>
+    <mat-form-field class="new-entry-field" >
+      <input matInput placeholder="Entry Value" formControlName="value" >
+    </mat-form-field>
+  </mat-card-content>
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button mat-raised-button mat-dialog-close >Close</button>
+  <!-- The mat-dialog-close directive optionally accepts a value as a result for the dialog. -->
+  <button mat-raised-button color="primary" [mat-dialog-close]="true"  (click)="save()">Save</button>
+</mat-dialog-actions>
